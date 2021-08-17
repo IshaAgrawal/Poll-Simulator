@@ -1,0 +1,40 @@
+h1
+{
+    text-align: center;
+}
+
+ol
+{
+    list-style: none;
+}
+
+ol li
+{
+    text-align: center;
+}
+
+.form
+{
+    text-align: center;
+}
+
+input[type="radio" i] 
+{
+    position: absolute;
+    left: 650px;
+}
+
+#la 
+{
+    margin-left: 670px;
+}
+
+#sumnames
+{
+    text-align: center;
+}
+
+#pollresult
+{
+    text-align: center;
+}
